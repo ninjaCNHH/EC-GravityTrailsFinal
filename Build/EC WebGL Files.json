@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "EC-GravityTrailsUnity",
+"productVersion": "0.1",
+"dataUrl": "EC WebGL Files.data.unityweb",
+"wasmCodeUrl": "EC WebGL Files.wasm.code.unityweb",
+"wasmFrameworkUrl": "EC WebGL Files.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
